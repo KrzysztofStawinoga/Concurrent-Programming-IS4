@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlAbE2Yq+B2t0zlRDGR6sJ0TCD+Nd+D5c/Ni6vIfTEAsg2SSEI9OGM96hK1DwHYtf41ukpIEa1G+iEcJUHdZVg==",
+  "dgSpecHash": "mpl5vWsnn45lZiczpc8J+lktWBE6D4waA4Gflwh4rBP/skVkIA/09e2qOQVamimc5omoFrbxWhkmBEzz5XMlTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\najnowsze 1\\Z_01\\Dane\\Dane.csproj",
+  "projectFilePath": "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Dane\\Dane.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

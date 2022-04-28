@@ -48,19 +48,23 @@ namespace Logika
                 {
                     Thread thread = new Thread(() =>
                     {
-                        Random rng = new Random();
-                        int xDirection = rng.Next(-2, 2);
-                        int yDirection = rng.Next(-2, 2);
-                        while (this.scene.Enabled)
+                        int xDirection;
+                        int yDirection;
+
+                        //while (this.scene.Enabled)
+                        while (true)
                         {
-                            while ((orb.X + xDirection - orbRadius) >= 0 && (orb.X + xDirection - orbRadius) <= scene.Width)
-                            {
-                                orb.X += xDirection;
-                            }
-                            while ((orb.Y + yDirection - orbRadius) >= 0 && (orb.Y + yDirection - orbRadius) <= scene.Height)
-                            {
+                            Random rng = new Random();
+                            xDirection = rng.Next(-20, 20);
+                            yDirection = rng.Next(-20, 20);
+                            //while ((orb.X + xDirection - orbRadius) >= 0 && (orb.X + xDirection - orbRadius) <= scene.Width)
+                            //{
+                            orb.X += xDirection;
+                            //}
+                            //while ((orb.Y + yDirection - orbRadius) >= 0 && (orb.Y + yDirection - orbRadius) <= scene.Height)
+                            //{
                                 orb.Y += yDirection;
-                            }
+                            //}
                             Thread.Sleep(15);
                         }   
                     });

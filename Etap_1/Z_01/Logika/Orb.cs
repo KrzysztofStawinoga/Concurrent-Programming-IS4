@@ -23,7 +23,7 @@ namespace Logika
             set 
             { 
                 x = value;
-                OnPropertyChanged("x");
+                OnPropertyChanged("X");
             }
         }
 
@@ -33,7 +33,7 @@ namespace Logika
             set 
             { 
                 y = value; 
-                OnPropertyChanged("y");
+                OnPropertyChanged("Y");
             }
         }
 
@@ -43,7 +43,7 @@ namespace Logika
             set 
             { 
                 radius = value;
-                OnPropertyChanged("radius");
+                OnPropertyChanged("Radius");
             }
         }
 

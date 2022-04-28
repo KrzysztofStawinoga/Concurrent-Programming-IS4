@@ -1094,11 +1094,17 @@
         }
       },
       "Model/1.0.0": {
+        "dependencies": {
+          "Logika": "1.0.0"
+        },
         "runtime": {
           "Model.dll": {}
         }
       },
       "ViewModel/1.0.0": {
+        "dependencies": {
+          "Model": "1.0.0"
+        },
         "runtime": {
           "ViewModel.dll": {}
         }

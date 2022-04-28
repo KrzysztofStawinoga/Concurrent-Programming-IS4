@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Logika;
 
-namespace Logic.Tests
+namespace Testy
 {
     [TestClass]
     public class LogicApiTest
