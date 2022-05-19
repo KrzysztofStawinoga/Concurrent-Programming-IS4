@@ -48,3 +48,13 @@ C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concur
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.csproj.CoreCompileInputs.cache
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.dll
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\bin\Debug\netstandard2.1\Dane.deps.json
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\bin\Debug\netstandard2.1\Dane.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\bin\Debug\netstandard2.1\Dane.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.csproj.AssemblyReference.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.GeneratedMSBuildEditorConfig.editorconfig
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.AssemblyInfoInputs.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.AssemblyInfo.cs
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.csproj.CoreCompileInputs.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\Dane\obj\Debug\netstandard2.1\Dane.pdb

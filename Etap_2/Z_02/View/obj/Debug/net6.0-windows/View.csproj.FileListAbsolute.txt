@@ -88,3 +88,33 @@ C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concur
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.csproj.CopyComplete
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.genruntimeconfig.cache
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\ref\View.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\View.exe
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\View.deps.json
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\View.runtimeconfig.json
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\View.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\View.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\Dane.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\Logika.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\Model.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\ViewModel.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\ViewModel.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\Dane.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\Logika.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\bin\Debug\net6.0-windows\Model.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.csproj.AssemblyReference.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\App.g.cs
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View_MarkupCompile.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View_MarkupCompile.lref
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.g.resources
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.AssemblyInfoInputs.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.AssemblyInfo.cs
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.csproj.CoreCompileInputs.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.csproj.CopyComplete
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\refint\View.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\View.genruntimeconfig.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\View\obj\Debug\net6.0-windows\ref\View.dll

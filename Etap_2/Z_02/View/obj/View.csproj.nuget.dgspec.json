@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj": {}
+    "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj": {
+    "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj",
+        "projectUniqueName": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj",
         "projectName": "Dane",
-        "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj",
-        "packagesPath": "C:\\Users\\oki43\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\obj\\",
+        "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj",
+        "packagesPath": "C:\\Users\\stawi\\.nuget\\packages\\",
+        "outputPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oki43\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,20 +62,20 @@
         }
       }
     },
-    "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj": {
+    "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj",
+        "projectUniqueName": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj",
         "projectName": "Logika",
-        "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj",
-        "packagesPath": "C:\\Users\\oki43\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\obj\\",
+        "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj",
+        "packagesPath": "C:\\Users\\stawi\\.nuget\\packages\\",
+        "outputPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oki43\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,8 +90,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj": {
-                "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj"
+              "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj": {
+                "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj"
               }
             }
           }
@@ -124,20 +124,20 @@
         }
       }
     },
-    "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj": {
+    "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\oki43\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\obj\\",
+        "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\stawi\\.nuget\\packages\\",
+        "outputPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oki43\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -152,8 +152,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj": {
-                "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj"
+              "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj": {
+                "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj"
               }
             }
           }
@@ -186,20 +186,20 @@
         }
       }
     },
-    "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj": {
+    "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj",
+        "projectUniqueName": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj",
         "projectName": "ViewModel",
-        "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj",
-        "packagesPath": "C:\\Users\\oki43\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\obj\\",
+        "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj",
+        "packagesPath": "C:\\Users\\stawi\\.nuget\\packages\\",
+        "outputPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oki43\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -214,8 +214,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj"
+              "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj": {
+                "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj"
               }
             }
           }
@@ -248,20 +248,20 @@
         }
       }
     },
-    "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj": {
+    "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj",
+        "projectUniqueName": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj",
         "projectName": "View",
-        "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj",
-        "packagesPath": "C:\\Users\\oki43\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\obj\\",
+        "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj",
+        "packagesPath": "C:\\Users\\stawi\\.nuget\\packages\\",
+        "outputPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\oki43\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -276,8 +276,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj": {
-                "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj"
+              "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj": {
+                "projectPath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj"
               }
             }
           }

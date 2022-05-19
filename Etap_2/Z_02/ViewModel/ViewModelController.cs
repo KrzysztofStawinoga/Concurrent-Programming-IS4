@@ -39,7 +39,7 @@ namespace ViewModel
 
         private AbstractModelApi modelApi;
         
-        private int orbQuantity = 4;
+        private int orbQuantity = 5;
 
         public string OrbQuantity
         {
@@ -88,14 +88,12 @@ namespace ViewModel
         private void Enable()
         {
             modelApi.Enable(orbQuantity);
-            isEnabled = true;
             OrbList = modelApi.GetAllCircles();
         }
 
         private void Disable()
         {
             modelApi.Disable();
-            IsEnabled = false;
         }
 
         public event PropertyChangedEventHandler PropertyChanged;

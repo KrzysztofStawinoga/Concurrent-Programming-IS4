@@ -15,11 +15,6 @@ namespace Testy
             //List<Orb> orbList = api.GetOrbs();
             Assert.AreEqual(5, api.GetOrbs().Count);
             Assert.AreEqual(25, api.GetOrbs()[0].Radius);
-
-            Assert.IsTrue(api.IsEnabled());
-
-            api.Disable();
-            Assert.IsFalse(api.IsEnabled());
         }
 
     }

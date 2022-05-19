@@ -69,3 +69,20 @@ C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concur
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.csproj.CopyComplete
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.dll
 C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\ViewModel.deps.json
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\ViewModel.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\ViewModel.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Dane.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Logika.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Model.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Model.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Dane.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Logika.pdb
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.csproj.AssemblyReference.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.AssemblyInfoInputs.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.AssemblyInfo.cs
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.csproj.CoreCompileInputs.cache
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.csproj.CopyComplete
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.dll
+D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.pdb

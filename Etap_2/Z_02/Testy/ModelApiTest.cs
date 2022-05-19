@@ -21,12 +21,8 @@ namespace Testy
             Assert.AreEqual(10, collection.Count);
             foreach (Circle c in collection)
             {
-                Assert.AreEqual(5, c.Radius);
+                Assert.AreEqual(20, c.Radius);
             }
-            Assert.IsTrue(modelApi.IsEnabled());
-
-            modelApi.Disable();
-            Assert.IsFalse(modelApi.IsEnabled());
         }
     }
 }

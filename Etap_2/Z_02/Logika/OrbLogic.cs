@@ -19,7 +19,7 @@ namespace Logika
 
         private void Update(object source, PropertyChangedEventArgs e)
         {
-            if (e.PropertyName == "XP")
+            if (e.PropertyName == "X")
             {
                 OnPropertyChanged("X");
             }
