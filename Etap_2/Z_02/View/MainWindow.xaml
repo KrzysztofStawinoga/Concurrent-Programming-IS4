@@ -9,14 +9,14 @@
         Title="MainWindow" Height="700" Width="900">
     <Grid>
         <Grid.DataContext>
-            <viewModel:ViewModelApi/>
+            <viewModel:ViewModelController/>
         </Grid.DataContext>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="800"/>
             <ColumnDefinition Width="100"/>
         </Grid.ColumnDefinitions>
 
-        <TextBox HorizontalAlignment="Center" Margin="0,16,0,0" TextWrapping="Wrap" Text="{Binding OrbQuantity, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="70" Height="18" Grid.Column="1"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,16,0,0" TextWrapping="Wrap" Text="{Binding OrbQuantity}" VerticalAlignment="Top" Width="70" Height="18" Grid.Column="1"/>
         <Button Content="Start" HorizontalAlignment="Center" Margin="0,51,0,0" VerticalAlignment="Top" Width="70" Height="25" Grid.Column="1" Command="{Binding EnableSignal}" IsEnabled="{Binding IsEnabled}"/>
         <Button Content="Stop" HorizontalAlignment="Center" Margin="0,81,0,0" VerticalAlignment="Top" Width="70" Height="25" Command="{Binding DisableSignal}" Grid.Column="1" IsEnabled="{Binding IsDisabled, Mode=OneWay}"/>
 

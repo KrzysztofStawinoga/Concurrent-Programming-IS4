@@ -6277,23 +6277,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stawi\\.nuget\\packages\\": {},
+    "C:\\Users\\oki43\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Testy\\Testy.csproj",
+      "projectUniqueName": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Testy\\Testy.csproj",
       "projectName": "Testy",
-      "projectPath": "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Testy\\Testy.csproj",
-      "packagesPath": "C:\\Users\\stawi\\.nuget\\packages\\",
-      "outputPath": "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Testy\\obj\\",
+      "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Testy\\Testy.csproj",
+      "packagesPath": "C:\\Users\\oki43\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Testy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\stawi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oki43\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6308,17 +6308,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Dane\\Dane.csproj": {
-              "projectPath": "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Dane\\Dane.csproj"
+            "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj": {
+              "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Dane\\Dane.csproj"
             },
-            "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Logika\\Logika.csproj": {
-              "projectPath": "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Logika\\Logika.csproj"
+            "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj": {
+              "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Logika\\Logika.csproj"
             },
-            "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Model\\Model.csproj": {
-              "projectPath": "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\Model\\Model.csproj"
+            "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\Model\\Model.csproj"
             },
-            "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "D:\\Concurrent\\Concurrent-Programming-IS4\\Etap_1\\Z_01\\ViewModel\\ViewModel.csproj"
+            "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo4\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\ViewModel\\ViewModel.csproj"
             }
           }
         }

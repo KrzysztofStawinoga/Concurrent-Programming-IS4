@@ -50,3 +50,16 @@ D:\Concurrent\Concurrent-Programming-IS4\Etap_1\Z_01\Logika\obj\Debug\netstandar
 D:\Concurrent\Concurrent-Programming-IS4\Etap_1\Z_01\Logika\obj\Debug\netstandard2.1\Logika.csproj.CopyComplete
 D:\Concurrent\Concurrent-Programming-IS4\Etap_1\Z_01\Logika\obj\Debug\netstandard2.1\Logika.dll
 D:\Concurrent\Concurrent-Programming-IS4\Etap_1\Z_01\Logika\obj\Debug\netstandard2.1\Logika.pdb
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\bin\Debug\netstandard2.1\Logika.deps.json
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\bin\Debug\netstandard2.1\Logika.dll
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\bin\Debug\netstandard2.1\Logika.pdb
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\bin\Debug\netstandard2.1\Dane.dll
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\bin\Debug\netstandard2.1\Dane.pdb
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\obj\Debug\netstandard2.1\Logika.csproj.AssemblyReference.cache
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\obj\Debug\netstandard2.1\Logika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\obj\Debug\netstandard2.1\Logika.AssemblyInfoInputs.cache
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\obj\Debug\netstandard2.1\Logika.AssemblyInfo.cs
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\obj\Debug\netstandard2.1\Logika.csproj.CoreCompileInputs.cache
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\obj\Debug\netstandard2.1\Logika.csproj.CopyComplete
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\obj\Debug\netstandard2.1\Logika.dll
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo4\Concurrent-Programming-IS4\Etap_2\Z_02\Logika\obj\Debug\netstandard2.1\Logika.pdb

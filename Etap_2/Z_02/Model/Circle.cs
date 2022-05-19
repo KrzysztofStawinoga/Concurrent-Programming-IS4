@@ -25,17 +25,17 @@ namespace Model
             OrbLogic sourceOrb = (OrbLogic)source;
             if(key.PropertyName == "X")
             {
-                this.x = sourceOrb.X - sourceOrb.Radius ;
+                this.X = sourceOrb.X - sourceOrb.Radius ;
             }
 
             if(key.PropertyName == "Y")
             {
-                this.y = sourceOrb.Y - sourceOrb.Radius ;
+                this.Y = sourceOrb.Y - sourceOrb.Radius ;
             }
 
             if(key.PropertyName == "Radius")
             {
-                this.radius = sourceOrb.Radius ;
+                this.Radius = sourceOrb.Radius ;
             }
 
         }
