@@ -29,6 +29,8 @@ namespace Dane
 
             private Scene scene;
 
+            private Logger logger;
+
             public bool Enabled 
             {
                 get { return enabled; }
@@ -44,6 +46,7 @@ namespace Dane
                 this.scene = new Scene(width, height, orbQuantity, orbRadius);
                 this.Enabled = true;
                 List<Orb> orbs = GetOrbs();
+                logger = new Logger(orbs);
 
                 foreach (Orb orb in orbs)
                 {
@@ -70,6 +73,7 @@ namespace Dane
             public override void Disable()
             {
                 this.Enabled = false;
+                this.logger.stop();
             }
         }
     }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K7TwB9Ym937cXt03VSVp+nu0y2DSSUvV0qy4xoxJpdKO7c7MI+R9BuPM35phDPVn5Zt4V5rOtchkryD3/hX5DQ==",
+  "dgSpecHash": "Xxw0H248VyrCUNVy4PLLGzsy/QJmlhjQsAZfh+ad+OjXZ4n0P7tBBn5SS4vt66eoIVdFs1xWN40kjnOdSf+xXg==",
   "success": true,
-  "projectFilePath": "D:\\Concurrent\\newRepo\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\oki43\\Desktop\\Przedmioty\\4sem\\Programowanie Współbieżne\\repo5\\Concurrent-Programming-IS4\\Etap_2\\Z_02\\View\\View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oki43\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\oki43\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\oki43\\.nuget\\packages\\system.text.json\\6.0.4\\system.text.json.6.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

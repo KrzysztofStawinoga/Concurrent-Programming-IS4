@@ -1,6 +1,7 @@
 ﻿using System;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using System.Text.Json.Serialization;
 
 namespace Dane
 {
@@ -49,7 +50,7 @@ namespace Dane
                 OnPropertyChanged("Y");
             }
         }
-
+        [JsonIgnore]
         public double Radius
         {
             get { return radius; }

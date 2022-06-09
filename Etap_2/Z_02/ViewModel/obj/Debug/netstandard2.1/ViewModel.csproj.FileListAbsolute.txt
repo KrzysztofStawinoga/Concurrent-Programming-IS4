@@ -86,3 +86,20 @@ D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug
 D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.csproj.CopyComplete
 D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.dll
 D:\Concurrent\newRepo\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.pdb
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\ViewModel.deps.json
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\ViewModel.dll
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\ViewModel.pdb
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Dane.dll
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Logika.dll
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Model.dll
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Model.pdb
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Dane.pdb
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\bin\Debug\netstandard2.1\Logika.pdb
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.csproj.AssemblyReference.cache
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.AssemblyInfo.cs
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.csproj.CopyComplete
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.dll
+C:\Users\oki43\Desktop\Przedmioty\4sem\Programowanie Współbieżne\repo5\Concurrent-Programming-IS4\Etap_2\Z_02\ViewModel\obj\Debug\netstandard2.1\ViewModel.pdb
